@@ -1,6 +1,8 @@
 # Forkify App 🍽️
 
-The Forkify app is a project developed in Jonas Schmedtmann’s course, focusing on building a Recipe App with modern JavaScript techniques. This app showcases various concepts and tools to create a functional and interactive web application. 
+The Forkify app is a project developed in Jonas Schmedtmann’s course, focusing on building a Recipe App with modern JavaScript techniques. This app showcases various concepts and tools to create a functional and interactive web application.
+
+![Forkify App](src/img/favicon.png)  
 
 ![Forkify App](forkify-app.png)
 
