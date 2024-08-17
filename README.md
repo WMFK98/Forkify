@@ -76,10 +76,6 @@ Search Avaliable : https://forkify-api.herokuapp.com/phrases.html
 
 Contributions to the Forkify app are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 For more details and to see the full course, check out Jonas Schmedtmann’s course on [Udemy](https://www.udemy.com/course/advanced-css-and-sass/).
