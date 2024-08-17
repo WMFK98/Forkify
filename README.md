@@ -52,7 +52,7 @@ The Forkify app is a project developed in Jonas Schmedtmann’s course, focusing
 2. **Navigate to the Project Directory**: 
 
     ```bash
-    cd forkify-app
+    cd Forkify
     ```
 
 3. **Install Dependencies**: 
