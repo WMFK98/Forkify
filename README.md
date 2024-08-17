@@ -8,9 +8,10 @@ The Forkify app is a project developed in Jonas Schmedtmann’s course, focusing
 
 ## Test
 https://vercel.com/realfk98s-projects/forkify
-### Search Avaliable : https://forkify-api.herokuapp.com/phrases.html
 
-## Key Features
+Search Avaliable : https://forkify-api.herokuapp.com/phrases.html
+
+# Key Features
 
 - **Recipe Search**: Users can search for recipes using a search bar. The app uses a third-party API to fetch recipe data.
 - **Recipe Details**: Once a recipe is selected, users can view detailed information, including ingredients and cooking instructions.
