@@ -46,7 +46,7 @@ The Forkify app is a project developed in Jonas Schmedtmann’s course, focusing
 1. **Clone the Repository**: 
 
     ```bash
-    git clone https://github.com/yourusername/forkify-app.git
+    git clone https://github.com/WMFK98/Forkify
     ```
 
 2. **Navigate to the Project Directory**: 
