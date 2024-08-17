@@ -72,8 +72,6 @@ Search Avaliable : https://forkify-api.herokuapp.com/phrases.html
     npm start
     ```
 
-5. **Open Your Browser**: Visit `http://localhost:3000` to view the app.
-
 ## Contributing
 
 Contributions to the Forkify app are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
