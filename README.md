@@ -7,7 +7,7 @@ The Forkify app is a project developed in Jonas Schmedtmann’s course, focusing
 ![Forkify App](forkify-app.png)
 
 ## Test
-https://vercel.com/realfk98s-projects/forkify
+[https://vercel.com/realfk98s-projects/forkify](https://forkify-nine-mu.vercel.app/)
 
 Search Avaliable : https://forkify-api.herokuapp.com/phrases.html
 
