@@ -28,14 +28,11 @@ Search Avaliable : https://forkify-api.herokuapp.com/phrases.html
 - **HTML/CSS**: For structuring and styling the application.
 - **JavaScript**: For dynamic functionality and interaction with the API.
 - **API Integration**: The app uses the Forkify API (or a similar recipe API) to fetch and display recipe data.
-- **Webpack**: For bundling and optimizing the application's resources.
 - **Babel**: For ensuring compatibility with older browsers by transpiling modern JavaScript code.
 - **SASS**: For advanced CSS styling with variables, nesting, and mixins.
 - **ESLint**: For maintaining code quality and consistency.
 - **Prettier**: For automatic code formatting.
 - **Parcel**: An alternative to Webpack, providing a zero-config bundler for faster builds and development.
-- **Jest**: For writing and running unit tests to ensure code reliability and correctness.
-- **Axios**: For making HTTP requests to the API, providing an easy-to-use alternative to the native `fetch` API.
 
 ## Learning Objectives
 
