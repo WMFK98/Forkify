@@ -3,9 +3,7 @@ export default class View {
   // เป็นตัวกลางที่ให้ view ทุกตัวสามารถใช้ฟังก์ชันในนี้ได้เป็นตัวไว้สำหรับสืบทอด
   _data;
   render(data, render = true) {
-    console.log(this._parentEl);
     if (!data || data?.length === 0) return this.renderError();
-    console.log(data);
     // console.log(data);
     this._data = data;
     const markup = this._gennerateMarkup();

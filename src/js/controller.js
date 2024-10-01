@@ -46,6 +46,7 @@ const controlSearchResults = async function () {
     const query = searchView.getQuery();
     if (!query) return;
     //2 load
+
     await model.loadSearchResults(query); // รันเพื่อให้เอาไปเก็บใน state
     //3 render
     resultsView.render(model.getSearchResultsPage());
