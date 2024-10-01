@@ -13,6 +13,7 @@ class SearchView {
     this._parentEl.addEventListener('submit', function (e) {
       // ที่ไม่ใส่ handler เพราะว่าเมื่อมีการซับมิทมันจะมีการรีหน้าใหม่ดังนั้นต้องป้องกัน refeash ก่อนด้วย e
       e.preventDefault();
+
       handler();
     });
   }
