@@ -1,7 +1,6 @@
 import View from './View';
 
 import icons from 'url:../../img/icons.svg'; //pacal // url: เอาแค่ลิงที่อยู่
-import { Fraction } from 'fractional';
 class RecipeView extends View {
   // รับฟังก์ชันทุกอย่างมาจาก view
   _parentEl = document.querySelector('.recipe');
@@ -36,9 +35,7 @@ class RecipeView extends View {
     <svg class="recipe__icon">
       <use href="${icons}#icon-check"></use>
     </svg>
-    <div class="recipe__quantity">${
-      ing.quantity ? new Fraction(ing.quantity).toString() : ''
-    }</div>
+    <div class="recipe__quantity">${ing.quantity ? ing.quantity : ''}</div>
     <div class="recipe__description">
       <span class="recipe__unit">${ing.unit}</span>
       ${ing.description}

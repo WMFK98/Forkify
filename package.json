@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "core-js": "^3.32.2",
-    "fraction.js": "^4.3.7",
     "fractional": "^1.0.0",
     "regenerator": "^0.14.10",
     "regenerator-runtime": "^0.14.0"
