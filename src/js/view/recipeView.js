@@ -1,7 +1,7 @@
 import View from './View';
 
 import icons from 'url:../../img/icons.svg'; //pacal // url: เอาแค่ลิงที่อยู่
-import { Franction } from 'fractional';
+import { Fraction } from 'fractional';
 class RecipeView extends View {
   // รับฟังก์ชันทุกอย่างมาจาก view
   _parentEl = document.querySelector('.recipe');

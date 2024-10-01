@@ -11,7 +11,6 @@ import bookmarksView from './view/bookmarksView.js';
 import paginationView from './view/paginationView.js';
 import addRecipeView from './view/addRecipeView.js';
 import { async } from 'regenerator-runtime';
-
 const recipeContainer = document.querySelector('.recipe');
 
 // https://forkify-api.herokuapp.com/v2
